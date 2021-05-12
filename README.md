@@ -1,3 +1,3 @@
 # MissionControll
 
-Flight controller for special model planes. 
+Flight controller for special model planes. **Not functional so far!**
